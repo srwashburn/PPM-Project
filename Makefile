@@ -1,3 +1,3 @@
-all: ppmrw.c
-	gcc ppmrw.c -o ppmrw
+all: raycaster.c
+	gcc raycaster.c -o raycaster
 	
